@@ -1,0 +1,11 @@
+body {
+    background-color: #eee;
+    display: flex;
+}
+
+div {
+    display: flex;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #000;
+}
